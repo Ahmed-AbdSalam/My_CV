@@ -47,6 +47,7 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - **Asfour Commission System (2023)** - APEX: This System gives power To The Financial Department To Calculate the Sales Commission 100% Automated And Dynamic With A Lot Of Functions And Reports.
 - **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
 
+---
 
 ## 🛠 <span style="color:deepskyblue">Skills</span>
 - **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
