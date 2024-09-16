@@ -1,11 +1,14 @@
-  # Ahmed Abdul-Salam Al-Sherbini
+<div align= "center">
+
+# <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
 
 **Oracle Developer**  
 [Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
 
+</div>
 
 ---
-## 🎯  <span style="color:deepskyblue">Objective</span>
+## 🎯 Objective
 Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.
 
 ---
