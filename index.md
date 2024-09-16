@@ -1,6 +1,6 @@
 
 
- <div align = "center">## Ahmed Abdul-Salam Al-Sherbini</div>
+ <div align = "center"> ## <span style="color:black">  Ahmed Abdul-Salam Al-Sherbini</span> </div>
 **Oracle Developer**  
 [Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
 
