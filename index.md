@@ -45,7 +45,10 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - **Asfour Attendance System (2024)** - APEX: This System Is Responsible For Recording Attendance For Managers In Institution Using Google Maps API, This System Gives Power To Users To Record Their Attendance Time With Dynamic Geolocation Defined By The System Admin. System Managers Have the Ability To Check-in The Organization With Some Limitations Like “Range Limit – Time Limit – Device limit – Photo limit“
 - **Asfour Bar System (2023)** - APEX: This System Allowed Employees To Order Their Needs From the Bar Dynamically And Allowed HR Dept. To Ensure That Bar Workers Are Doing Their Job in the Best Way. 
 - **Asfour Commission System (2023)** - APEX: This System gives power To The Financial Department To Calculate the Sales Commission 100% Automated And Dynamic With A Lot Of Functions And Reports.
-- **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
+- **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry.
+- **Responsive Dashboard For Asfour Institution (2023) Oracle Forms & Reports 6i** - This Project Mainly Shows The High Table Of Asfour Institution A Very Accurate View Of All Sectors In The Company And Support Them With A Large Variety Of Reports To Use This Data Making Strategies.
+- **Pharmacy Stock (2019) C# -Student-** - Desktop Application managing daily Work in Pharmacies Using C# and Microsoft SQL Server.
+- **•	Air Travelling Agency (2018) C# -Student-** - Desktop Application for Managing a travel agency day work using .NET and Microsoft Server.
 
 ---
 
