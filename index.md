@@ -48,7 +48,7 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry.
 - **Responsive Dashboard For Asfour Institution (2023) Oracle Forms & Reports 6i** - This Project Mainly Shows The High Table Of Asfour Institution A Very Accurate View Of All Sectors In The Company And Support Them With A Large Variety Of Reports To Use This Data Making Strategies.
 - **Pharmacy Stock (2019) C# -Student-** - Desktop Application managing daily Work in Pharmacies Using C# and Microsoft SQL Server.
-- **•	Air Travelling Agency (2018) C# -Student-** - Desktop Application for Managing a travel agency day work using .NET and Microsoft Server.
+- **Air Travelling Agency (2018) C# -Student-** - Desktop Application for Managing a travel agency day work using .NET and Microsoft Server.
 
 ---
 
