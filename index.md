@@ -1,33 +1,38 @@
 # Ahmed Abdul-Salam Al-Sherbini
+**Oracle Developer**  
+[Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)  
 
-**Oracle Developer**
+---
 
-- **Email:** Ahmedabdulsalam18@gmail.com
-- **Phone:** (+20)1028238853
-- **LinkedIn:** [LinkedIn Profile](http://www.linkedin.com/in/ahmedsherbini1)
+## 🎯 Objective
+Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.
 
-## Objective
+---
 
-I Aspire to become one of the best Oracle developers, capable of working with different technologies, with good knowledge of business trends.
+## 💼 Experience
 
-## Experience
+### Oracle APEX Developer  
+**Asfour Crystal International** (Oct 2023 - Present)  
+- Develop sub-systems using Oracle APEX and convert Oracle 6i systems to APEX.
+- Improve system performance by creating scheduled jobs.
+- Implement unified application design using JavaScript, CSS, and HTML5.
 
-### Oracle Developer - Egyptian Naval Forces (Oct 2021 - Sept 2023)
-- Expertise in creating and maintaining SQL/PL-SQL queries, and modifying triggers and views.
-- Troubleshooting, and performing tasks using Oracle Forms and Reports.
-- Developing and implementing database security measures.
+### Oracle Developer  
+**Egyptian Naval Forces** (Oct 2021 - Sept 2023)  
+- Created and maintained SQL/PL-SQL queries, and modified triggers and views.
+- Utilized Oracle Forms and Reports for troubleshooting and development tasks.
+- Developed and implemented database security measures.
 
-### Oracle APEX Developer - Asfour Crystal International (Oct 2023 - Present)
-- Modifying triggers, views, and troubleshooting issues using Oracle Forms and Reports 6i.
-- Creating scheduled jobs to improve system performance.
-- Developing sub-systems using Oracle APEX, converting Oracle 6i systems into APEX.
+---
 
-## Education
+## 🎓 Education
+**Bachelor of Computer and Systems Engineering**  
+*Mansoura University* (Sept 2015 – Aug 2020)  
+- **Graduation Project**: Accidents Detection and Avoidance System Using Machine Learning.
 
-**BCS in Computer and Systems Engineering** - Mansoura University (Sept 2015 – Aug 2020)
-- Graduation Project: Accidents Detection and Avoidance System Using Machine Learning.
+---
 
-## Technical Experience
+## 💻 Technical Experience
 
 - **Stockify (2024)** - APEX ‘FREE LANCING’ This System Is Responsible for managing Stock’s Daily Work From Receiving Orders From Providers And Sending Orders To Their Clients. It has a lot of functions like calculating the costs of making final products from their primary ingredients. This system supports users In viewing detailed and comprehensive reports.
 - **Asfour Security System (2024)** - APEX: This System Is Responsible For Giving Users Privileges On the Organization’s Apps This System Gave A Large Step In Securing Apps And Ensuring Durability This System IS 100% Dynamic.  
@@ -38,13 +43,16 @@ I Aspire to become one of the best Oracle developers, capable of working with di
 - **Asfour Commission System (2023)** - APEX: This System gives power To The Financial Department To Calculate the Sales Commission 100% Automated And Dynamic With A Lot Of Functions And Reports.
 - **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
 
-## Skills
 
-- SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports
-- HTML, CSS, JavaScript
-- TOAD, SQL Developer, SQL+, C#
+## 🛠 Skills
+- **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
+- **Web Technologies**: HTML, CSS, JavaScript  
+- **Tools**: TOAD, SQL Developer, SQL+, C#  
 
-## Languages
+---
 
-- Arabic - Native
-- English - C1
+## 🌐 Languages
+- **Arabic**: Native  
+- **English**: C1 - Advanced  
+
+---
