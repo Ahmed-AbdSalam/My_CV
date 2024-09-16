@@ -1,4 +1,4 @@
-<div align="center">
+
   
 # <span style="color:deepskyblue">Ahmed Abdul-Salam Al-Sherbini</span>
 **Oracle Developer**  
