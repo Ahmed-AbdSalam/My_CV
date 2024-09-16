@@ -1,92 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        body {
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        .cv-container {
-            text-align: center;
-            width: 70%;
-            background-color: white;
-            padding: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: deepskyblue;
-        }
-        h2 {
-            color: deepskyblue;
-        }
-    </style>
-</head>
-<body>
-    <div class="cv-container">
-        
-        <h1>Ahmed Abdul-Salam Al-Sherbini</h1>
-        <p><strong>Oracle Developer</strong></p>
-        <p>Email: <a href="mailto:Ahmedabdulsalam18@gmail.com">Ahmedabdulsalam18@gmail.com</a> | Phone: (+20)1028238853 | <a href="http://www.linkedin.com/in/ahmedsherbini1">LinkedIn</a></p>
+<div align= "center">
 
-        <hr>
+# <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
 
-        <h2>🎯 Objective</h2>
-        <p>Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.</p>
+**Oracle Developer**  
+[Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
 
-        <hr>
+</div>
 
-        <h2>💼 Experience</h2>
-        <h3>Oracle APEX Developer</h3>
-        <p>Asfour Crystal International (Oct 2023 - Present)</p>
-        <ul>
-            <li>Develop sub-systems using Oracle APEX and convert Oracle 6i systems to APEX.</li>
-            <li>Improve system performance by creating scheduled jobs.</li>
-            <li>Implement unified application design using JavaScript, CSS, and HTML5.</li>
-        </ul>
+---
+## 🎯 Objective
+Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.
 
-        <h3>Oracle Developer</h3>
-        <p>Egyptian Naval Forces (Oct 2021 - Sept 2023)</p>
-        <ul>
-            <li>Created and maintained SQL/PL-SQL queries, and modified triggers and views.</li>
-            <li>Utilized Oracle Forms and Reports for troubleshooting and development tasks.</li>
-            <li>Developed and implemented database security measures.</li>
-        </ul>
+---
 
-        <hr>
+## 💼 <span style="color:deepskyblue">Experience</span>
 
-        <h2>🎓 Education</h2>
-        <p>Bachelor of Computer and Systems Engineering<br>Mansoura University (Sept 2015 – Aug 2020)</p>
-        <p><strong>Graduation Project:</strong> Accidents Detection and Avoidance System Using Machine Learning.</p>
+### Oracle APEX Developer  
+**Asfour Crystal International** (Oct 2023 - Present)  
+- Develop sub-systems using Oracle APEX and convert Oracle 6i systems to APEX.
+- Improve system performance by creating scheduled jobs.
+- Implement unified application design using JavaScript, CSS, and HTML5.
 
-        <hr>
+### Oracle Developer  
+**Egyptian Naval Forces** (Oct 2021 - Sept 2023)  
+- Created and maintained SQL/PL-SQL queries, and modified triggers and views.
+- Utilized Oracle Forms and Reports for troubleshooting and development tasks.
+- Developed and implemented database security measures.
 
-        <h2>💻 Technical Experience</h2>
-        <ul>
-            <li>Stockify (2024) - APEX Freelance Project: Stock management, cost calculations, and reporting.</li>
-            <li>Asfour Security System (2024) - APEX: Dynamic user privilege management and security.</li>
-            <li>Asfour Crystal Plan System (2024) - APEX: Automated crystal factory planning and defect analysis.</li>
-            <li>Asfour Self Services System (2024) - APEX: Employee self-service portal for HR tasks.</li>
-            <li>Fast For Shipping Services (2023) - APEX Freelance Project: Operational platform for shipping services.</li>
-        </ul>
+---
 
-        <hr>
+## 🎓 <span style="color:deepskyblue">Education</span>
+**Bachelor of Computer and Systems Engineering**  
+*Mansoura University* (Sept 2015 – Aug 2020)  
+- **Graduation Project**: Accidents Detection and Avoidance System Using Machine Learning.
 
-        <h2>🛠 Skills</h2>
-        <ul>
-            <li>Languages & Databases: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports</li>
-            <li>Web Technologies: HTML, CSS, JavaScript</li>
-            <li>Tools: TOAD, SQL Developer, SQL+, C#</li>
-        </ul>
+---
 
-        <hr>
+## 💻 <span style="color:deepskyblue">Technical Experience</span>
 
-        <h2>🌐 Languages</h2>
-        <p>Arabic: Native<br>English: C1 - Advanced</p>
-    </div>
-</body>
-</html>
+- **Stockify (2024)** - APEX ‘FREE LANCING’ This System Is Responsible for managing Stock’s Daily Work From Receiving Orders From Providers And Sending Orders To Their Clients. It has a lot of functions like calculating the costs of making final products from their primary ingredients. This system supports users In viewing detailed and comprehensive reports.
+- **Asfour Security System (2024)** - APEX: This System Is Responsible For Giving Users Privileges On the Organization’s Apps This System Gave A Large Step In Securing Apps And Ensuring Durability This System IS 100% Dynamic.  
+- **Asfour Crystal Plan System (2024)** - APEX: This System Is Responsible For Making A Fully Automated Plan For Crystal Factory, This System collects data From the ERB Database And Oracle 6i Database From Orders, Maintaining Manufacturing Defect Analysis.
+- **Asfour Self Services System (2024)** - APEX: This System Is Capable Of Helping Asfour’s Employees meet their Daily Needs Such As Request A Vacation Or Viewing Their Salaries And Their Sales, Managers are Capable Of Accepting Or Refusing Employees' Requests And Have a Responsive Dashboard OF The Company, This App Is Mainly For HR Dept.
+- **Asfour Attendance System (2024)** - APEX: This System Is Responsible For Recording Attendance For Managers In Institution Using Google Maps API, This System Gives Power To Users To Record Their Attendance Time With Dynamic Geolocation Defined By The System Admin. System Managers Have the Ability To Check-in The Organization With Some Limitations Like “Range Limit – Time Limit – Device limit – Photo limit“
+- **Asfour Bar System (2023)** - APEX: This System Allowed Employees To Order Their Needs From the Bar Dynamically And Allowed HR Dept. To Ensure That Bar Workers Are Doing Their Job in the Best Way. 
+- **Asfour Commission System (2023)** - APEX: This System gives power To The Financial Department To Calculate the Sales Commission 100% Automated And Dynamic With A Lot Of Functions And Reports.
+- **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
+
+
+## 🛠 <span style="color:deepskyblue">Skills</span>
+- **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
+- **Web Technologies**: HTML, CSS, JavaScript  
+- **Tools**: TOAD, SQL Developer, SQL+, C#  
+
+---
+
+## 🌐<span style="color:deepskyblue">Languages</span>
+- **Arabic**: Native  
+- **English**: C1 - Advanced  
+
+---
