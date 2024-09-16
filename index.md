@@ -1,4 +1,4 @@
-# <span style="color:blue">Ahmed Abdul-Salam Al-Sherbini</span>
+# <span style="color:deepskyblue">Ahmed Abdul-Salam Al-Sherbini</span>
 **Oracle Developer**  
 [Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)  
 
@@ -9,7 +9,7 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 
 ---
 
-## 💼 <span style="color:blue">Experience</span>
+## 💼 <span style="color:deepskyblue">Experience</span>
 
 ### Oracle APEX Developer  
 **Asfour Crystal International** (Oct 2023 - Present)  
@@ -25,14 +25,14 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 
 ---
 
-## 🎓 <span style="color:blue">Education</span>
+## 🎓 <span style="color:deepskyblue">Education</span>
 **Bachelor of Computer and Systems Engineering**  
 *Mansoura University* (Sept 2015 – Aug 2020)  
 - **Graduation Project**: Accidents Detection and Avoidance System Using Machine Learning.
 
 ---
 
-## 💻 <span style="color:blue">Technical Experience</span>
+## 💻 <span style="color:deepskyblue">Technical Experience</span>
 
 - **Stockify (2024)** - APEX ‘FREE LANCING’ This System Is Responsible for managing Stock’s Daily Work From Receiving Orders From Providers And Sending Orders To Their Clients. It has a lot of functions like calculating the costs of making final products from their primary ingredients. This system supports users In viewing detailed and comprehensive reports.
 - **Asfour Security System (2024)** - APEX: This System Is Responsible For Giving Users Privileges On the Organization’s Apps This System Gave A Large Step In Securing Apps And Ensuring Durability This System IS 100% Dynamic.  
@@ -44,14 +44,14 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
 
 
-## 🛠 <span style="color:blue">Skills</span>
+## 🛠 <span style="color:deepskyblue">Skills</span>
 - **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
 - **Web Technologies**: HTML, CSS, JavaScript  
 - **Tools**: TOAD, SQL Developer, SQL+, C#  
 
 ---
 
-## 🌐<span style="color:blue">Languages</span>
+## 🌐<span style="color:deepskyblue">Languages</span>
 - **Arabic**: Native  
 - **English**: C1 - Advanced  
 
