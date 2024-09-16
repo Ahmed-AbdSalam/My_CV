@@ -1,4 +1,4 @@
-<div style="align: center">
+<div align= "center">
 
 # <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
 
