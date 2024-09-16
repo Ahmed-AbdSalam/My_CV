@@ -8,7 +8,7 @@
 
 
 ---
-## 🎯 Objective
+## 🎯 <span style="color:deepskyblue">Objective</span>
 Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.
 
 ---
