@@ -1,7 +1,4 @@
-
-
-
-  #Ahmed Abdul-Salam Al-Sherbini
+  # Ahmed Abdul-Salam Al-Sherbini
 
 **Oracle Developer**  
 [Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
