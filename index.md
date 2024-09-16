@@ -3,7 +3,9 @@
 # <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
 
 **Oracle Developer**  
-[Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
+[Email](mailto:Ahmedabdulsalam18@gmail.com) 
+| (+20)1028238853 |
+[LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
 
 </div>
 
