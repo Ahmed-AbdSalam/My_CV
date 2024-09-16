@@ -28,6 +28,7 @@
 </head>
 <body>
     <div class="cv-container">
+        
         <h1>Ahmed Abdul-Salam Al-Sherbini</h1>
         <p><strong>Oracle Developer</strong></p>
         <p>Email: <a href="mailto:Ahmedabdulsalam18@gmail.com">Ahmedabdulsalam18@gmail.com</a> | Phone: (+20)1028238853 | <a href="http://www.linkedin.com/in/ahmedsherbini1">LinkedIn</a></p>
