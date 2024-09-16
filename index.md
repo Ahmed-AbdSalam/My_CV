@@ -1,16 +1,24 @@
-
+<div style="text-align:center">
 
 # <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
 
 **Oracle Developer**  
 [Email](mailto:Ahmedabdulsalam18@gmail.com) | (+20)1028238853 | [LinkedIn](http://www.linkedin.com/in/ahmedsherbini1)
 
+</div>
 
 ---
+
+<div style="text-align:center">
+
 ## 🎯 Objective
 Aspiring to become one of the best Oracle developers, capable of working with different technologies and keeping up with business trends. Skilled in Oracle development, database management, and system optimization.
 
+</div>
+
 ---
+
+<div style="text-align:center">
 
 ## 💼 <span style="color:deepskyblue">Experience</span>
 
@@ -26,36 +34,55 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - Utilized Oracle Forms and Reports for troubleshooting and development tasks.
 - Developed and implemented database security measures.
 
+</div>
+
 ---
+
+<div style="text-align:center">
 
 ## 🎓 <span style="color:deepskyblue">Education</span>
 **Bachelor of Computer and Systems Engineering**  
 *Mansoura University* (Sept 2015 – Aug 2020)  
 - **Graduation Project**: Accidents Detection and Avoidance System Using Machine Learning.
 
+</div>
+
 ---
+
+<div style="text-align:center">
 
 ## 💻 <span style="color:deepskyblue">Technical Experience</span>
 
-- **Stockify (2024)** - APEX ‘FREE LANCING’ This System Is Responsible for managing Stock’s Daily Work From Receiving Orders From Providers And Sending Orders To Their Clients. It has a lot of functions like calculating the costs of making final products from their primary ingredients. This system supports users In viewing detailed and comprehensive reports.
-- **Asfour Security System (2024)** - APEX: This System Is Responsible For Giving Users Privileges On the Organization’s Apps This System Gave A Large Step In Securing Apps And Ensuring Durability This System IS 100% Dynamic.  
-- **Asfour Crystal Plan System (2024)** - APEX: This System Is Responsible For Making A Fully Automated Plan For Crystal Factory, This System collects data From the ERB Database And Oracle 6i Database From Orders, Maintaining Manufacturing Defect Analysis.
-- **Asfour Self Services System (2024)** - APEX: This System Is Capable Of Helping Asfour’s Employees meet their Daily Needs Such As Request A Vacation Or Viewing Their Salaries And Their Sales, Managers are Capable Of Accepting Or Refusing Employees' Requests And Have a Responsive Dashboard OF The Company, This App Is Mainly For HR Dept.
-- **Asfour Attendance System (2024)** - APEX: This System Is Responsible For Recording Attendance For Managers In Institution Using Google Maps API, This System Gives Power To Users To Record Their Attendance Time With Dynamic Geolocation Defined By The System Admin. System Managers Have the Ability To Check-in The Organization With Some Limitations Like “Range Limit – Time Limit – Device limit – Photo limit“
-- **Asfour Bar System (2023)** - APEX: This System Allowed Employees To Order Their Needs From the Bar Dynamically And Allowed HR Dept. To Ensure That Bar Workers Are Doing Their Job in the Best Way. 
-- **Asfour Commission System (2023)** - APEX: This System gives power To The Financial Department To Calculate the Sales Commission 100% Automated And Dynamic With A Lot Of Functions And Reports.
-- **Fast For Shipping Services (2023)** - APEX Freelancing Project: This Platform Is Designed To Streamline Daily Operations, Including Employee Management, Order Management, Vehicle Assignment, Financial Tracking, User Activity Tracking, And Reporting. It Aims To Improve Efficiency And Productivity In The Shipping Industry. 
+- **Stockify (2024)** - APEX Freelancing Project: This system manages stock workflows, including cost calculations and comprehensive reporting.
+- **Asfour Security System (2024)** - APEX: Privilege management and app security.
+- **Asfour Crystal Plan System (2024)** - APEX: Automated crystal factory planning and defect analysis.
+- **Asfour Self Services System (2024)** - APEX: Employee self-service portal for HR-related tasks.
+- **Asfour Attendance System (2024)** - APEX: Attendance tracking using Google Maps API and geolocation.
+- **Asfour Bar System (2023)** - APEX: Bar ordering system for employees and HR management.
+- **Asfour Commission System (2023)** - APEX: Automated sales commission calculation for the finance department.
+- **Fast For Shipping Services (2023)** - APEX Freelancing Project: Streamlined shipping operations platform.
 
+</div>
+
+---
+
+<div style="text-align:center">
 
 ## 🛠 <span style="color:deepskyblue">Skills</span>
 - **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
 - **Web Technologies**: HTML, CSS, JavaScript  
 - **Tools**: TOAD, SQL Developer, SQL+, C#  
 
+</div>
+
 ---
+
+<div style="text-align:center">
 
 ## 🌐<span style="color:deepskyblue">Languages</span>
 - **Arabic**: Native  
 - **English**: C1 - Advanced  
+
+</div>
 
 ---
