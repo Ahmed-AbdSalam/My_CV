@@ -38,6 +38,7 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 
 ## 💻 <span style="color:deepskyblue">Technical Experience</span>
 
+- **Asfour Gate (2025)** - APEX This System Consolidates All Applications Under Asfour's control, Empowering Employees With Seamless Access To Their Authorized Applications.
 - **Stockify (2024)** - APEX ‘FREE LANCING’ This System Is Responsible for managing Stock’s Daily Work From Receiving Orders From Providers And Sending Orders To Their Clients. It has a lot of functions like calculating the costs of making final products from their primary ingredients. This system supports users In viewing detailed and comprehensive reports.
 - **Asfour Security System (2024)** - APEX: This System Is Responsible For Giving Users Privileges On the Organization’s Apps This System Gave A Large Step In Securing Apps And Ensuring Durability This System IS 100% Dynamic.  
 - **Asfour Crystal Plan System (2024)** - APEX: This System Is Responsible For Making A Fully Automated Plan For Crystal Factory, This System collects data From the ERB Database And Oracle 6i Database From Orders, Maintaining Manufacturing Defect Analysis.
@@ -53,7 +54,7 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 ---
 
 ## 🛠 <span style="color:deepskyblue">Skills</span>
-- **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports  
+- **Languages & Databases**: SQL, PL/SQL, Oracle APEX, Oracle Forms, Oracle Reports, Jasper Reports, SQL Optimization, SQL Tunning
 - **Web Technologies**: HTML, CSS, JavaScript  
 - **Tools**: TOAD, SQL Developer, SQL+, C#  
 
