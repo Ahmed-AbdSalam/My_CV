@@ -15,9 +15,15 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 
 ## 💼 <span style="color:deepskyblue">Experience</span>
 
+### Senior Oracle APEX Developer  
+**Namaa World** (Aug 2025 - Present )  
+- Develop Systems For Governmental Field In Saudi Arabia.
+- Improve system performance And Scalability.
+- Implement unified application design using APIs' , JavaScript, CSS, and HTML5.
+
 ### Oracle APEX Developer  
-**Asfour Crystal International** (Oct 2023 - Present)  
-- Develop sub-systems using Oracle APEX and convert Oracle 6i systems to APEX.
+**Asfour Crystal International** (Oct 2023 - Jul 2025)  
+- Develop sub-systems using Oracle APEX and convert t Oracle 6i systems to APEX.
 - Improve system performance by creating scheduled jobs.
 - Implement unified application design using JavaScript, CSS, and HTML5.
 
@@ -66,3 +72,4 @@ Aspiring to become one of the best Oracle developers, capable of working with di
 - **English**: C1 - Advanced  
 
 ---
+
