@@ -1,184 +1,184 @@
-# <span style="color:black">Ahmed Abdul-Salam Al-Sherbini</span>
+### Senior Oracle APEX Developer | Oracle SQL & PL/SQL Specialist
 
-**Senior Oracle APEX Developer**  
-[Email](mailto:Ahmedabdulsalam18@gmail.com) | (+966)506978326 | [LinkedIn](https://www.linkedin.com/in/ahmedsherbini1)
+**Government Digital Transformation · Enterprise Applications · API Integration**
+
+[Email](mailto:Ahmedabdulsalam18@gmail.com) ·
+[Phone](tel:+966506978326) ·
+[LinkedIn](https://www.linkedin.com/in/ahmedsherbini1)
+
+</div>
 
 ---
 
-## 🎯 <span style="color:deepskyblue">Professional Summary</span>
+## Professional Summary
 
-Senior Oracle APEX Developer with 6 years of experience in Oracle development, government digital transformation, application modernization, and enterprise system integration. Experienced in managing the full Software Development Life Cycle (SDLC), migrating legacy Oracle Forms and Reports 6i systems to Oracle APEX, optimizing SQL and PL/SQL performance, and integrating enterprise applications through REST APIs, SOAP Web Services, and scheduled jobs. Skilled in Oracle APEX platform upgrades, large-scale file transfer solutions, workflow automation, and developing unified user interfaces aligned with Saudi Digital Government (SDG) standards. Contributed to digital transformation initiatives within a prominent Saudi government entity, including projects supporting CMMI Level 3 maturity.
+Senior Oracle APEX Developer with experience in enterprise application development, government digital transformation, legacy system modernization, and Oracle database solutions. Specialized in Oracle APEX, SQL, PL/SQL, application performance optimization, and API integration using REST and SOAP Web Services.
+
+Experienced in migrating legacy Oracle Forms and Reports applications to modern web-based platforms, developing business process automation solutions, integrating external systems, and implementing secure, responsive applications aligned with Saudi Digital Government design standards.
+
+Contributed to digital transformation initiatives, enterprise application enhancements, and large-scale data integration within government and private-sector environments.
 
 ---
 
-## 💼 <span style="color:deepskyblue">Professional Experience</span>
+## Professional Experience
 
 ### Senior Oracle APEX Developer
-**Namaa World – Government Managed Services Project, Ministry of National Guard, Saudi Arabia**  
-*(Aug 2025 – Present)*
+**Namaa World — Government Managed Services Project, Ministry of National Guard**
 
-- Develop, maintain, and enhance enterprise Oracle APEX applications supporting government operations.
-- Manage Oracle APEX platform upgrades, including application compatibility, regression testing, and post-upgrade issue resolution.
-- Integrate internal and external systems using REST APIs, SOAP Web Services, and other system integration mechanisms.
-- Develop and optimize SQL and PL/SQL code, database processes, and scheduled jobs to improve performance and operational efficiency.
-- Implement unified application interfaces using JavaScript, CSS, HTML5, and reusable UI components aligned with Saudi Digital Government (SDG) standards.
-- Integrate digital file archiving services with Oracle APEX applications and databases through Web Services.
-- Develop solutions to automate manual workflows and support paperless government operations.
-- Contribute to digital transformation initiatives and organizational process maturity, including work supporting CMMI Level 3 achievement.
+*August 2025 – Present*
+
+- Develop, maintain, and enhance enterprise applications using Oracle APEX, SQL, and PL/SQL.
+- Upgrade existing Oracle APEX applications and resolve compatibility, functionality, and performance issues.
+- Design and implement integrations with internal and external systems using REST APIs, SOAP Web Services, and database connectivity.
+- Contribute to digital archiving initiatives and paperless business workflows through Web Services integration.
+- Implement unified application interfaces aligned with Saudi Digital Government design standards.
+- Support application lifecycle activities, including development, testing, deployment, maintenance, and issue resolution.
+- Contribute to project quality and process improvement initiatives associated with CMMI Level 3 maturity achievement.
 
 ### Oracle APEX Developer
-**Asfour Crystal International**  
-*(Oct 2023 – Jul 2025)*
+**Asfour Crystal International**
 
-- Developed new enterprise sub-systems using Oracle APEX and migrated legacy Oracle Forms and Reports 6i applications to modern web-based solutions.
-- Designed dynamic workflows, user controls, and department-specific applications to improve business process efficiency.
-- Improved application performance through SQL/PL/SQL optimization and scheduled database jobs.
-- Developed comprehensive reports and business intelligence outputs using Oracle Business Suite Discoverer.
-- Created unified and responsive application interfaces using JavaScript, CSS, and HTML5, following the company's visual identity.
-- Supported and maintained legacy Oracle Forms and Reports systems, including troubleshooting triggers, views, and database-related issues.
-- Developed HR, manufacturing, attendance, sales commission, security, and employee self-service applications.
+*October 2023 – July 2025*
+
+- Maintained legacy Oracle Forms and Reports applications and supported their migration to Oracle APEX.
+- Developed business applications for HR, sales, commissions, attendance, manufacturing, and employee self-services.
+- Built automated workflows, approval processes, dashboards, and operational reports.
+- Integrated Google Maps API to support location-based attendance and management visits.
+- Developed scheduled database jobs and optimized SQL and PL/SQL operations.
+- Improved application usability and responsive layouts using HTML5, CSS, and JavaScript.
+- Integrated data from existing Oracle systems to support business reporting and operational planning.
 
 ### Oracle Developer
-**Egyptian Naval Forces**  
-*(Oct 2021 – Sep 2023)*
+**Egyptian Naval Forces**
 
-- Created, maintained, and optimized SQL and PL/SQL queries, database triggers, and views.
-- Developed and maintained applications using Oracle Forms and Oracle Reports.
-- Troubleshot legacy Oracle applications and provided operational and technical support.
+*October 2021 – September 2023*
+
+- Developed and maintained Oracle database objects using SQL and PL/SQL.
+- Created and maintained Oracle Forms and Reports applications.
+- Worked with database triggers, views, queries, and application business logic.
+- Supported database security, data integrity, and application troubleshooting.
 - Worked with Oracle Database 12c and legacy Oracle Forms and Reports 6i environments.
-- Utilized TOAD and SQL*Plus for database development, troubleshooting, and administration tasks.
-- Implemented database security measures and supported reliable database operations.
 
 ---
 
-## 🎓 <span style="color:deepskyblue">Education</span>
+## Technical Experience & Key Projects
 
-**Bachelor of Computer and Systems Engineering**  
-*Mansoura University* (Sep 2015 – Aug 2020)
+### Large-Scale Data Transfer & Integration System
+*Oracle APEX · NGINX · APIs · Web Services*
 
-- **Graduation Project:** Accidents Detection and Avoidance System Using Machine Learning.
+- Contributed to a large-scale data transfer solution involving approximately 4 TB of data between an Oracle database and an external server.
+- Used NGINX as an intermediary component to support data transfer requirements and address volume-related constraints.
+- Integrated services and coordinated data exchange between systems through APIs and Web Services.
 
----
+### Systems Registry — Oracle APEX
 
-## 💻 <span style="color:deepskyblue">Technical Experience & Key Projects</span>
+- Developed a centralized catalog of internal applications and systems.
+- Organized application ownership, responsible departments, technologies, authentication methods, and integrated services.
+- Improved visibility into application dependencies and system information.
 
-### Government & Enterprise Projects
+### Stockify — Freelance Oracle APEX Project
 
-**1. Large-Scale Data Transfer & Integration System (2025) – Oracle APEX / NGINX / APIs / Web Services**
+- Developed an inventory and order management application.
+- Supported supplier intake, customer dispatch, and stock movement tracking.
+- Implemented cost calculations based on ingredients and generated operational reports.
 
-- Developed a solution to transfer approximately 4 TB of files between Oracle Database and an external server.
-- Used NGINX as an intermediary layer to support and optimize large-volume file transfers.
-- Integrated APIs and Web Services to facilitate communication between systems and maintain data integrity.
+### Asfour Security System
 
-**2. Oracle APEX Platform Upgrade & Modernization – Government Project**
+- Developed application-level security and dynamic role-based access control.
+- Managed user privileges and access to application functionality.
 
-- Supported Oracle APEX platform upgrades and application modernization within a government environment.
-- Worked on application compatibility, legacy issue resolution, regression testing, and post-upgrade verification.
-- Supported the continued operation of existing applications while aligning the environment with updated platform capabilities.
+### Asfour Crystal Plan System
 
-**3. Systems Registry – Oracle APEX**
+- Developed a manufacturing planning solution integrating ERP data and legacy Oracle Forms 6i data.
+- Supported production order management and defect analysis.
 
-- Designed and implemented a centralized registry for institutional applications.
-- Enabled users to view application ownership, responsible departments, technologies, authentication methods, integrated services, and system dependencies.
+### Asfour Self Services System
 
-### Asfour Crystal International Projects
+- Developed employee self-service functionality for vacation requests, salary-related services, and sales information.
+- Implemented manager approval workflows and responsive dashboards.
 
-**4. Crystal Production Analytics Application (2025) – Oracle APEX**
+### Asfour Attendance System for Managers
 
-- Developed an application to monitor crystal production output and improve manufacturing quality.
-- Analyzed production categories, including Uniform, Rainbow, and Other.
-- Identified defect patterns and traced production issues to specific workers.
-- Ranked production line and employee performance and enabled comparisons across different periods to support data-driven quality improvement.
+- Integrated Google Maps API for location-based attendance and visit tracking.
+- Supported configurable geographic ranges and validation rules involving time, device, and photo requirements.
 
-**5. Asfour Gate (2025) – Oracle APEX**
+### Asfour Bar System
 
-- Developed a centralized gateway consolidating organizational applications.
-- Enabled employees to access applications according to their assigned permissions.
+- Developed an employee ordering system with HR oversight and operational tracking.
 
-**6. Asfour Security System (2024) – Oracle APEX**
+### Asfour Commission System
 
-- Developed a fully dynamic application for managing user privileges across organizational systems.
-- Implemented role-based access control (RBAC) to strengthen application security and maintainability.
+- Developed automated sales commission calculations and reporting functionality.
+- Supported commission review and business reporting.
 
-**7. Asfour Crystal Plan System (2024) – Oracle APEX**
+### Fast For Shipping Services — Freelance Oracle APEX Project
 
-- Developed an automated manufacturing planning system for a crystal factory.
-- Integrated data from ERP and Oracle 6i databases to manage orders and analyze manufacturing defects.
+- Developed application functionality for employee, order, vehicle, financial, and user management.
+- Implemented tracking features and operational reports.
 
-**8. Asfour Self Services System (2024) – Oracle APEX**
+### Responsive Dashboard — Oracle Forms & Reports 6i
 
-- Developed an HR-focused employee self-service application for vacation requests and salary and sales information.
-- Enabled managers to approve or reject employee requests through a responsive dashboard.
-
-**9. Asfour Attendance System for Managers (2024) – Oracle APEX / Google Maps API**
-
-- Developed a geolocation-based attendance system using Google Maps API.
-- Implemented configurable restrictions for geographic range, attendance time, device, and photo requirements.
-- Enabled managers to monitor attendance while enforcing organizational policies.
-
-**10. Asfour Commission System (2023) – Oracle APEX**
-
-- Developed an automated and dynamic sales commission calculation system for the Finance Department.
-- Implemented calculation workflows and comprehensive reporting functionality.
-
-**11. Asfour Bar System (2023) – Oracle APEX**
-
-- Automated internal employee ordering processes.
-- Provided HR with tools to monitor bar operations and improve operational efficiency.
-
-**12. Responsive Dashboard for Asfour Institution (2023) – Oracle Forms & Reports 6i**
-
-- Developed an executive dashboard providing a consolidated view of organizational performance across company sectors.
-- Delivered reports to support management analysis and strategic decision-making.
-
-### Freelance Projects
-
-**13. Stockify (2024) – Oracle APEX**
-
-- Developed a stock management system covering supplier orders, customer deliveries, and inventory-related operations.
-- Implemented automated cost calculations for finished products based on their raw materials and ingredients.
-- Provided detailed reports to support operational monitoring and decision-making.
-
-**14. Fast For Shipping Services (2023) – Oracle APEX**
-
-- Developed a shipping operations platform covering employee management, order management, vehicle assignment, and financial tracking.
-- Implemented user activity tracking and reporting features to improve operational efficiency and productivity.
+- Worked on a responsive dashboard initiative involving legacy Oracle Forms and Reports technologies.
 
 ### Academic Projects
 
-**15. Pharmacy Stock Management (2019) – C# / Microsoft SQL Server**
+**Pharmacy Stock Management**
+- Developed a pharmacy inventory application using C# and SQL Server.
 
-- Developed a desktop application to manage daily pharmacy operations and stock.
-
-**16. Air Travelling Agency (2018) – C# / .NET / Microsoft SQL Server**
-
-- Developed a desktop application to support travel agency operations and daily activities.
+**Air Travel Agency**
+- Developed an air travel agency application using C#, .NET, and SQL Server.
 
 ---
 
-## 🛠 <span style="color:deepskyblue">Technical Skills</span>
+## Technical Skills
 
-- **Oracle Technologies:** Oracle APEX, Oracle Database, Oracle Forms, Oracle Reports, Oracle Business Suite Discoverer.
-- **Database Development:** SQL, PL/SQL, SQL Optimization, SQL Tuning, Database Triggers, Views, Scheduled Jobs.
-- **Integration & Web Services:** REST APIs, SOAP Web Services, API Integration, NGINX, Google Maps API, Enterprise System Integration.
-- **Web Technologies:** HTML5, CSS, JavaScript, Responsive UI Design.
-- **Database Tools:** TOAD, Oracle SQL Developer, SQL*Plus.
-- **Programming & Frameworks:** C#, .NET, Microsoft SQL Server.
-- **Enterprise Solutions:** Legacy System Migration, Application Modernization, Workflow Automation, Role-Based Access Control (RBAC), Reporting & Analytics, SDLC, Regression Testing.
-- **Government Digital Transformation:** Saudi Digital Government (SDG) design alignment, system standardization, paperless workflow automation.
-
----
-
-## 📜 <span style="color:deepskyblue">Certifications & Professional Achievements</span>
-
-- Oracle APEX Certification.
-- CMMI Level 3-related project contribution and experience.
-- Experience supporting digital transformation initiatives within a Saudi government entity.
-- Experience in government application integration, legacy system modernization, and large-scale data transfer solutions.
+| Category | Technologies |
+|---|---|
+| Oracle Development | Oracle APEX, SQL, PL/SQL |
+| Legacy Oracle Technologies | Oracle Forms, Oracle Reports, Oracle Database 12c |
+| Database Tools | TOAD, Oracle SQL Developer, SQL*Plus |
+| Web Technologies | HTML5, CSS, JavaScript |
+| Integration | REST APIs, SOAP Web Services, Google Maps API |
+| Infrastructure & Integration Support | NGINX, external service integration |
+| Application Development | Workflow Automation, Role-Based Access Control, Reporting, Performance Optimization |
+| Software Development | C#, .NET, SQL Server |
+| Development Lifecycle | Requirements Analysis, Development, Testing, Maintenance, Migration |
 
 ---
 
-## 🌐 <span style="color:deepskyblue">Languages</span>
+## Certifications & Professional Achievements
 
-- **Arabic:** Native.
-- **English:** C1 – Advanced.
+- **[Oracle APEX Certification](https://www.linkedin.com/in/ahmedsherbini1/overlay/Certifications/419377144/treasury/?profileId=ACoAACAMrs4B-oTFb18b22QZSdNrVUdVh46w3l8)**  
+  Oracle APEX professional certification.
+
+- **[CMMI Level 3 — Project Achievement](https://www.linkedin.com/in/ahmedsherbini1/overlay/Certifications/419594112/treasury/?profileId=ACoAACAMrs4B-oTFb18b22QZSdNrVUdVh46w3l8)**  
+  Project-related achievement associated with process maturity and quality improvement initiatives.
+
+- **[Egyptian Naval Forces — Experience Certificate](https://www.linkedin.com/in/ahmedsherbini1/overlay/Certifications/419188857/treasury/?profileId=ACoAACAMrs4B-oTFb18b22QZSdNrVUdVh46w3l8)**  
+  Professional experience documentation.
+
+---
+
+## Education
+
+**Bachelor of Computer and Systems Engineering**  
+Mansoura University
+
+*September 2015 – August 2020*
+
+**Graduation Project:** Accident Detection and Avoidance Using Machine Learning.
+
+---
+
+## Languages
+
+- **Arabic:** Native
+- **English:** C1
+
+---
+
+<div align="center">
+
+*Oracle APEX · PL/SQL · Enterprise Application Development · Digital Transformation*
+
+</div>
