@@ -6,7 +6,7 @@
 [Phone](tel:+966506978326) ·
 [LinkedIn](https://www.linkedin.com/in/ahmedsherbini1)
 
-</div>
+
 
 ---
 
